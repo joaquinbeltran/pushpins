@@ -1,0 +1,32 @@
+/* Global Styles */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  text-align:center;
+  background-color:#56CC80;
+}
+
+.img-responsive {
+  max-width: 50%; 
+  height: auto;
+
+}
+
+.row {
+  margin-top:35px;
+  margin-bottom:15px;
+}
+
+.col-xs-4 {
+  position:center;
+}
+
+.btn-default {
+  margin-top:25px;
+  width:100%;
+
+}
+
+
